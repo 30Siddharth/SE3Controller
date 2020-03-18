@@ -1,0 +1,6 @@
+{
+    "stopped_at_goal": false,
+    "time": 60.00000000002736,
+    "reached_waypoints": true,
+    "sim_exit": "Timeout: Simulation end time reached."
+}
